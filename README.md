@@ -3,7 +3,7 @@
 # Hello ! 🖐️
 
 My name is Dorian and i'm a hobbyist developer from France.
-I use mainly [Jetbrains Products](https://www.jetbrains.com/)
+I mainly use [Jetbrains Products](https://www.jetbrains.com/)
 
 ## 🔧 Technologies & Tools
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=dodgerblue)](https://www.microsoft.com/fr-fr/windows)  
