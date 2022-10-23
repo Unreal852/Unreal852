@@ -13,15 +13,10 @@ My name is Dorian and i'm a hobbyist developer from France.
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=d3265b)](https://www.java.com/)  
 [![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=26bed3)](https://sqlite.org/)
 [![](https://img.shields.io/badge/Tools-Jetbains_Space-informational?style=flat&logo=jetbrains&logoColor=white&color=26bed3)](https://www.jetbrains.com/space/)
-![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Unreal852/Unreal852">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unreal852&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Unreal852/Unreal852">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Unreal852&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Unreal852's GitHub Stats" />
-</a>
+
+[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats#gh-dark-mode-only)
+[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats#gh-light-mode-only)
+[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats#gh-dark-mode-only)
+[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats#gh-light-mode-only)
