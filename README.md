@@ -4,12 +4,10 @@
 
 My name is Dorian and i'm a hobbyist developer from France.
 
-## Applications
+## 🔧 Technologies & Tools
 
 [![](https://img.shields.io/badge/OS-Windows_11-informational?style=for-the-badge&logo=Windows11&logoColor=dodgerblue&color=dodgerblue)](https://www.microsoft.com/fr-fr/windows) [![](https://img.shields.io/badge/Chat-Guilded-informational?style=for-the-badge&logo=Guilded&logoColor=yellow&color=dodgerblue)](https://www.guilded.gg/) 
-
-## 🔧 Technologies & Tools
-   
+ 
 [![](https://img.shields.io/badge/Code_Editor-Jetbrains_Fleet-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=purple)](https://www.jetbrains.com/fleet/)   
 [![](https://img.shields.io/badge/Language-CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=239120)](https://dotnet.microsoft.com/)
 [![](https://img.shields.io/badge/IDE-Jetbrains_Rider-informational?style=for-the-badge&logo=rider&logoColor=white&color=red)](https://www.jetbrains.com/rider/)   
