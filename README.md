@@ -3,7 +3,6 @@
 # Hello ! 🖐️
 
 My name is Dorian and i'm a hobbyist developer from France.
-I mainly use [Jetbrains Products](https://www.jetbrains.com/)
 
 ## 🔧 Technologies & Tools
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=dodgerblue)](https://www.microsoft.com/fr-fr/windows)  
@@ -14,6 +13,10 @@ I mainly use [Jetbrains Products](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=d3265b)](https://www.java.com/)  
 [![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=26bed3)](https://sqlite.org/)
 [![](https://img.shields.io/badge/Tools-Jetbains_Space-informational?style=flat&logo=jetbrains&logoColor=white&color=26bed3)](https://www.jetbrains.com/space/)
+![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Unreal852/Unreal852">
