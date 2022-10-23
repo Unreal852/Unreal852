@@ -16,7 +16,7 @@ My name is Dorian and i'm a hobbyist developer from France.
 
 ## &#x1f4c8; GitHub Stats
 
-[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats#gh-dark-mode-only)
-[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats#gh-light-mode-only)
-[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats#gh-dark-mode-only)
-[![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg#gh-light-mode-only)
