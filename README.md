@@ -13,10 +13,3 @@ My name is Dorian and i'm a hobbyist developer from France.
 [![](https://img.shields.io/badge/IDE-Jetbrains_Rider-informational?style=for-the-badge&logo=rider&logoColor=white&color=red)](https://www.jetbrains.com/rider/)   
 [![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=.env&logoColor=white&color=orange)](https://www.java.com/) 
 [![](https://img.shields.io/badge/IDE-Jetbrains_IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=red)](https://www.jetbrains.com/idea/)
-
-## &#x1f4c8; GitHub Stats
-
-![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Unreal852/github-stats/master/generated/languages.svg#gh-light-mode-only)
